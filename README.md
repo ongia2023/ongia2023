@@ -8,10 +8,10 @@
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
-- 🌱 I’m currently learning Html,Css and JavaScript.
+- 💡 Fun fact: I'm from AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering).
+- 🌱 i have learnt Html,CSS,JavaScript,Version Control with Git, Cloud & IaaS Basics,Artifact Repo Manager with Nexus, Containers with Docker,AWS Services,Orchestration with Kubernetes,CICD with Jenkins and python
 - 😊 I’m looking for help with open source projects, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer,cloud engineering (Intern or Junior level).
+- 💼 Job interests: DevOPS,Software Engineer,cloud engineering(Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing ongiaemma@gmail.com.
 
 ---

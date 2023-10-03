@@ -7,11 +7,11 @@
 
 **Here's a quick summary about me**:
 
-- 😊 Pronouns: He/him
+- 😊 Pronouns: He/Him
 - 💡 Fun fact: I'm from AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering).
-- 🌱 i have learnt Html,CSS,JavaScript,Version Control with Git, Cloud & IaaS Basics,Artifact Repo Manager with Nexus, Containers with Docker,AWS Services,Orchestration with Kubernetes,CICD with Jenkins and python
+- 🌱 i have learnt Html,CSS,JavaScript,Version Control with Git, Cloud & IaaS Basics ,open-source infrastructure as code with Ansible,Artifact Repo Manager with Nexus, Containers with Docker,AWS Services,Orchestration with Kubernetes,CICD with Jenkins and Bash script
 - 😊 I’m looking for help with open source projects, internships, and entry-level opportunities.
-- 💼 Job interests: DevOPS,Software Engineer,cloud engineering(Intern or Junior level).
+- 💼 Job interests: DevOPS,Software Engineer,cloud engineering(Intern or Junior level). 
 - 📫 You can [view my resume](#) and contact me by emailing ongiaemma@gmail.com.
 
 ---

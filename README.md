@@ -12,22 +12,37 @@
 - 
    🌱Skills
 
-- Programming Languages: HTML, CSS, JavaScript, Bash
-- Version Control: Git
-- Cloud Computing: AWS (EC2, S3, RDS, Lambda), Cloud & IaaS Basics
-- Infrastructure as Code: Ansible
-- Containerization: Docker
-- Orchestration: Kubernetes
-- CICD Tools: Jenkins
-- Artifact Repository: Nexus
-- Web Servers: Apache
-- Problem-Solving and Troubleshooting
-- Team Collaboration and Communication
-- Strong Analytical and Critical Thinking Skills
+Certainly! Here's the modified profile with repeated information removed:
 
--  
-- 😊 I’m looking for help with open source projects, internships, and entry-level opportunities.
-- 💼 Job interests: DevOPS,Software Engineer,cloud engineering(Intern or Junior level). 
+---
+
+**Profile:**
+
+I am a dedicated professional with expertise in various aspects of IT and software development. My skill set includes:
+
+- **Programming Languages:** HTML, CSS, JavaScript, Bash
+- **Version Control:** Git
+- **Cloud Computing:** AWS (EC2, S3, RDS, Lambda), Cloud & IaaS Basics
+- **Infrastructure as Code:** Ansible
+- **Containerization:** Docker
+- **Orchestration:** Kubernetes
+- **CICD Tools:** Jenkins
+- **Artifact Repository:** Nexus
+- **Web Servers:** Apache
+- **DevOps Tools:** GitHub, Terraform
+- **Cloud Providers:** AWS, GCP, Digital Ocean
+- **Linux Operating System:** Proficient in Linux OS, systemd
+- **Networking:** Understanding of networking concepts and netmask
+- **Problem-Solving and Troubleshooting Skills**
+- **Team Collaboration and Communication**
+- **Strong Analytical and Critical Thinking Skills**
+- **Technical Writing**
+
+My hands-on experience extends to configuring and managing web servers like Apache, implementing infrastructure as code with Ansible,
+and containerization with Docker. I excel in problem-solving and troubleshooting scenarios and have a proven track record of effective team collaboration.
+
+If you are seeking a versatile professional with a broad range of technical skills and a proactive approach to problem-solving,
+I am eager to contribute to your team's success.s: DevOPS,Software Engineer,cloud engineering(Intern or Junior level). 
 - 📫 You can [view my resume](#) and contact me by emailing ongiaemma@gmail.com.
 
 ---

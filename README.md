@@ -12,10 +12,7 @@
 - 
    🌱Skills
 
-Certainly! Here's the modified profile with repeated information removed:
-
 ---
-
 **Profile:**
 
 I am a dedicated professional with expertise in various aspects of IT and software development. My skill set includes:

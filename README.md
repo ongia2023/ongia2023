@@ -19,7 +19,7 @@ I am a dedicated professional with expertise in various aspects of IT and softwa
 
 - **Programming Languages:** HTML, CSS, JavaScript, Bash
 - **Version Control:** Git
-- **Cloud Computing:** AWS (EC2, S3, RDS), Cloud & IaaS Basics
+- **Cloud Computing:** AWS (EC2, S3, RDS), Cloud & IaaS 
 - **Infrastructure as Code:** Ansible
 - **Containerization:** Docker
 - **Orchestration:** Kubernetes

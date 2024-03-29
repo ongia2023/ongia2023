@@ -19,13 +19,13 @@ I am a dedicated professional with expertise in various aspects of IT and softwa
 
 - **Programming Languages:** HTML, CSS, JavaScript, Bash
 - **Version Control:** Git
-- **Cloud Computing:** AWS (EC2, S3, RDS), Cloud & IaaS 
+- **Cloud Computing:** IaaS 
 - **Infrastructure as Code:** Ansible
 - **Containerization:** Docker
 - **Orchestration:** Kubernetes
 - **CICD Tools:** Jenkins
 - **Web Servers:** Apache
-- **DevOps Tools:** GitHub, Terraform
+- **DevOps Tools:**  Terraform
 - **Cloud Providers:** AWS, GCP, Digital Ocean
 - **Linux Operating System:** Proficient in Linux OS, systemd
 - **Networking:** Understanding of networking concepts and netmask

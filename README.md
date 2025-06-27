@@ -8,7 +8,7 @@
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/Him-
--  💡 Fun fact: I'm from AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering).
+-  💡 Fun fact: I'm a DevOps Engineer .
 - 
    🌱Skills
 
